@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+    <body>
+      <!-- semantic html-->
+       <!-- header -->
+        <header>
+            <h1>Welcome to My Web Page</h1>
+            <!-- navigation bar-->
+            <nav>
+                <a href="/">Home</a>
+                <a href="#">About</a>
+                <a href="#">Contact us</a>
+            </nav>
+        </header>
+        <!-- main content -->
+        <main>
+            <article>
+                <p>This is my first page.</p>
+                <p>Isn't it amazing!</p>
+                <!-- un-ordered lists --> 
+                <ul>
+                    <li>Dietetics</li>
+                    <li>Biochemistry</li>
+                    <li>Pharmacology</li>
+                    <li>Microbiology</li>
+                </ul>
+                <!-- ordered lists -->
+                <ol type="i">
+                    <li>Introduction to Dietetics</li>
+                    <li>Introduction to Biochemistry</li>
+                    <li>Introduction to Pharmacology</li>
+                </ol>
+                <!-- anchor -->
+                <a href="https://facebook.com">Go to Facebook</a>
+            </article>
+            <section>
+                <h2>My favorite disciplines</h2>
+                <ul>
+                    <li>Philosophy</li>
+                    <li>Physics</li>
+                    <li>Biology</li>
+                </ul>
+            </section>
+            <aside>
+                <h3> Quick Links</h3>
+                <a href="#">Additional Resources</a>
+            </aside>
+        </main>
+        <!-- footer -->
+        <footer>
+            <p>&copy; 2025. Enosis Kamadi. All Rights Reserved.</p>
+    </body>
+</html>
